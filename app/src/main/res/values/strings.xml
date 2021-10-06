@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Random Sentence</string>
+    <string name="new_random_sentence">New Random Sentence</string>
+</resources>
